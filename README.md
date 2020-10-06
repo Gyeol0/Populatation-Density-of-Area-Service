@@ -89,7 +89,7 @@
 
 
 ## 모델 실행 결과
-<img src="./img/result.PNG" width="30%">
+<img src="./img/result.PNG" width="20%">
 
-<img src="./img/result2.png" width="25%">
+<img src="./img/result2.png" width="35%">
 
