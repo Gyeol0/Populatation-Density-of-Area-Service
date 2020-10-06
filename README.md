@@ -76,10 +76,10 @@
 ## 서비스 설명
 
 * 인구 밀집 지역 알리미
-<img src="./img/service1.PNG" width="25%">
+<img src="./img/service1.PNG" width="20%">
 
 * 최적 경로
-<img src="./img/service2.PNG" width="35%">
+<img src="./img/service2.PNG" width="20%">
 
 * 다익스트라 알고리즘
 <img src="./img/algo.PNG" width="45%">
@@ -89,7 +89,7 @@
 
 
 ## 모델 실행 결과
-<img src="./img/result.PNG" width="35%">
+<img src="./img/result.PNG" width="30%">
 
-<img src="./img/result2.PNG" width="35%">
+<img src="./img/result2.png" width="25%">
 
