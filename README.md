@@ -93,10 +93,8 @@
 
 * 다익스트라 알고리즘 이용, 인구 밀집도가 낮은 최적 경로 제시
 * <img src="./img/service2.PNG" width="20%">
-  * 다익스트라 알고리즘
-    <img src="./img/algo.PNG" width="45%">
-  * 순서도
-    <img src="./img/flowchart.PNG" width="30%">
+  * 다익스트라 알고리즘<img src="./img/algo.PNG" width="45%">
+  * 순서도<img src="./img/flowchart.PNG" width="30%">
 
 
 ## 모델 실행 결과
